@@ -1,1 +1,1 @@
-# HyjalExpeditionBag_AdiBags
+HyjalExpeditionBag
