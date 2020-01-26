@@ -1,9 +1,9 @@
-## Interface: 70000
-## Title: AdiBags - Herbalism
+## Interface: 80205
+## Title: HyjalExpeditionBag_AdiBags
 ## Notes: Adds Herbalism in your bags, using AdiBags inventory manager.
 ## Author: Ramon Ferreira
-## Version: v0.1
-
+## Version: v0.4
+## DefaultState: enabled
 ## Dependencies: AdiBags
 
 Localization.lua
